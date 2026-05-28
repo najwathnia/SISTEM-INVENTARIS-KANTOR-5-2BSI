@@ -1,0 +1,31 @@
+id,nama,kategori,jumlah,status,dipinjam
+1,Laptop,Elektronik,10,aktif,0
+2,Mouse,Elektronik,25,aktif,0
+3,Keyboard,Elektronik,20,aktif,0
+4,Printer,Elektronik,5,aktif,0
+5,Scanner,Elektronik,4,aktif,0
+6,Meja,Furniture,15,aktif,0
+7,Kursi,Furniture,30,aktif,0
+8,Lemari,Furniture,10,aktif,0
+9,AC,Elektronik,6,aktif,0
+10,Proyektor,Elektronik,3,aktif,0
+11,Whiteboard,ATK,7,aktif,0
+12,Spidol,ATK,50,aktif,0
+13,Penghapus,ATK,40,aktif,0
+14,Buku,ATK,100,aktif,0
+15,Pulpen,ATK,200,aktif,0
+16,Stapler,ATK,20,aktif,0
+17,Kertas A4,ATK,500,aktif,0
+18,Map,ATK,150,aktif,0
+19,Rak Buku,Furniture,8,aktif,0
+20,Jam,Elektronik,12,aktif,0
+21,Dispenser,Elektronik,5,aktif,0
+22,Galon,Konsumsi,25,aktif,0
+23,Kipas,Elektronik,9,aktif,0
+24,Telepon,Elektronik,6,aktif,0
+25,Router,Elektronik,4,aktif,0
+26,Flashdisk,Elektronik,30,aktif,0
+27,Harddisk,Elektronik,10,aktif,0
+28,Server,Elektronik,2,aktif,0
+29,Kabel LAN,Elektronik,60,aktif,0
+30,Switch,Elektronik,3,aktif,0
